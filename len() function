@@ -1,0 +1,5 @@
+mylist = ["pihu", "shruti", "mayur"]
+
+x = len(mylist)
+
+print(x)
